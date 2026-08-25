@@ -1,25 +1,6 @@
+= Portfolio of `gardrek`
 :toc:
 
-== Test of Asciidoc on github ==
-if *this* doesn't work, well idk _what_ to **do**
-
-----
-This is a code block.
-----
-
-== Modules
-
-The modular design of gPC is such
-that one can start with the basic
-instruction set, and then add
-additional modules as needed. The
-<<io_control, I/O and Additional
-Control>> module is the one you're
-most likely to add first, but other
-modules are not inter-dependent, and
-as such can be added in any order.
-
-
-[[io_control]]
-=== I/O and Additional Control
-todo and such
+[[bollox_h]]
+== Lox Language Implementation
+`bollox` is an interpreter for the language Lox, written in Rust, with various feature extensions. It is based on the first interpreter described by the book Crafting Interpreters. That interpreter was written in Java, so a good deal of changes have been made to the structure to make it more "`Rusty`", and to enable the addition of a few extra features of my own design.
