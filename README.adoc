@@ -5,6 +5,10 @@
 == Lox Language Implementation
 `bollox` is an interpreter for the language Lox, written in Rust, with various feature extensions. It is based on the first interpreter described by the book Crafting Interpreters. That interpreter was written in Java, so a good deal of changes have been made to the structure to make it more "`Rusty`", and to enable the addition of a few extra features of my own design.
 
+[[lxsp_h]]
+== LXSP, a Minimal LISP Implementation
+`lxsp` is a minimal LISP implementation written in Rust.
+
 [[vvpet_h]]
 == VVpet, a Tool for Creating Virtual Pet Games for PC
 VVpet is a system for making and playing virtual pets inspired by Tamagotchi and Digimon: Digital Monsters. It allows one to easily make their own fantasy consoles, as well as games for those consoles, and comes with a default console for which one can immediately start programming in Lua.
