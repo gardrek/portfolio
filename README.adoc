@@ -49,7 +49,7 @@ https://gardrek.itch.io/wgj53[Blob Tower] is a short game/demo I made for a week
 
 [[hunt_h]]
 ==== https://gardrek.itch.io/hunt-the-dracula[Hunt the Dracula]
-A puzzle game where you must find and kill Dracula in the dark, by relying on limited senses, and logical deduction. A remake of Hunt the Wumpus, made in LÖVE.
+A puzzle game where you must find and kill Dracula in the dark, by relying on limited senses, and logical deduction. A remake of Hunt the Wumpus, made in Rust using the `mini-fb` crate.
 
 [[slake_h]]
 ==== https://gardrek.itch.io/slake[Slake]
