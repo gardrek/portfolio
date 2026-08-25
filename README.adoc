@@ -39,6 +39,22 @@ https://gardrek.itch.io/vvpet[VVpet] is a system for making and playing virtual 
 
 == Games
 
+[[blobtower_h]]
 === Blob Tower
 
 https://gardrek.itch.io/wgj53[Blob Tower] is a short game/demo I made for a week-long game jam in July 2018. It was made with LÖVE, and is one of my first fully completed game projects.
+
+
+=== Smaller Games
+
+[[hunt_h]]
+==== https://gardrek.itch.io/hunt-the-dracula[Hunt the Dracula]
+A puzzle game where you must find and kill Dracula in the dark, by relying on limited senses, and logical deduction. A remake of Hunt the Wumpus, made in LÖVE.
+
+[[slake_h]]
+==== https://gardrek.itch.io/slake[Slake]
+A web-based implementation of Snake. Made using the Rust programming language, using a small JavaScript shim for rendering the visuals and a few other tasks.
+
+[[match_h]]
+==== https://gardrek.itch.io/wgj123[Match]
+A puzzle game made in one week. A single-player remake of the board game Set.
