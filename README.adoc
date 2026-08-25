@@ -17,7 +17,7 @@
 [[vvpet_h]]
 == VVpet, a Tool for Creating Virtual Pet Games for PC
 
-link:vvpet[VVpet] is a system for making and playing virtual pets inspired by Tamagotchi and Digimon: Digital Monsters. It allows one to easily make their own fantasy consoles, as well as games for those consoles, and comes with a default console for which one can immediately start programming in Lua.
+link:"https://github.com/gardrek/vvpet"[VVpet] is a system for making and playing virtual pets inspired by Tamagotchi and Digimon: Digital Monsters. It allows one to easily make their own fantasy consoles, as well as games for those consoles, and comes with a default console for which one can immediately start programming in Lua.
 
 
 [[protoplasm]]
