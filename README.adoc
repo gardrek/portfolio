@@ -5,9 +5,10 @@
 
 More fonts are coming soon-ish.
 
+[[ldeeds_h]]
 === Legendary Deeds
 
-My first properly-released font, https://gardrek.itch.io/legendary-deeds[Legendary Deeds] is a proportional serif pixel font with wide coverage of languages written using the Latin, Greek, and Cyrillic scripts.
+My first released font, https://gardrek.itch.io/legendary-deeds[Legendary Deeds] is a proportional serif pixel font with wide coverage of languages written using the Latin, Greek, and Cyrillic scripts.
 
 
 == Interpreters, Assemblers, and Other Programming Platforms
@@ -33,5 +34,11 @@ https://github.com/gardrek/protoplasm[ProtoplASM] is a configurable assembler de
 [[vvpet_h]]
 === VVpet, a Tool for Creating Virtual Pet Games for PC
 
-https://github.com/gardrek/vvpet[VVpet] is a system for making and playing virtual pets inspired by Tamagotchi and Digimon: Digital Monsters. It allows one to easily make their own fantasy consoles, as well as games for those consoles, and comes with a default console for which one can immediately start programming in Lua.
+https://gardrek.itch.io/vvpet[VVpet] is a system for making and playing virtual pets inspired by Tamagotchi and Digimon: Digital Monsters. It allows one to easily make their own fantasy consoles, as well as games for those consoles, and comes with a default console for which one can immediately start programming in Lua. Source is available https://github.com/gardrek/vvpet[on Github at this link].
 
+
+== Games
+
+=== Blob Tower
+
+https://gardrek.itch.io/wgj53[Blob Tower] is a short game/demo I made for a week-long game jam in July 2018. It was made with LÖVE, and is one of my first fully completed game projects.
