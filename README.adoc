@@ -1,4 +1,4 @@
 = Read-Me File for gardrek's Portfolio
 
-== portfolio.adoc[Portfolio]
-A list of hand-picked sample projects, on github, https://itch.io[], and other sites.
+== link:portfolio.adoc[Portfolio]
+A list of hand-picked sample projects, on https://github.com/gardrek[GitHub], https://gardrek.itch.io[itch.io], and other sites.
