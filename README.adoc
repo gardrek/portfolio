@@ -1,2 +1,25 @@
+:toc:
+
 == Test of Asciidoc on github ==
 if *this* doesn't work, well idk _what_ to **do**
+
+----
+This is a code block.
+----
+
+== Modules
+
+The modular design of gPC is such
+that one can start with the basic
+instruction set, and then add
+additional modules as needed. The
+<<io_control, I/O and Additional
+Control>> module is the one you're
+most likely to add first, but other
+modules are not inter-dependent, and
+as such can be added in any order.
+
+
+[[io_control]]
+=== I/O and Additional Control
+todo and such
