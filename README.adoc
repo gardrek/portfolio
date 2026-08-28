@@ -1,4 +1,0 @@
-= Repository Containing Lists of gardrek's Projects
-
-== link:portfolio.adoc[Portfolio]
-A list of hand-picked sample projects, on https://github.com/gardrek[GitHub], https://gardrek.itch.io[itch.io], and other sites.
