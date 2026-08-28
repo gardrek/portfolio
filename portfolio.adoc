@@ -1,6 +1,8 @@
 = Portfolio of `gardrek`
 :toc:
 
+A list of hand-picked sample projects, on https://github.com/gardrek[GitHub], https://gardrek.itch.io[itch.io], and other sites.
+
 == Fonts
 
 More fonts are coming soon-ish.
